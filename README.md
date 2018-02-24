@@ -67,7 +67,7 @@ described previously. Use `--help` once running to see the full list of options.
 
 ### Network 1 - Normal Convergence
 
-TODO: Insert Diagram Link
+![Network 1](https://github.com/mjkilian1992/DistanceVectorRouting/blob/master/diagrams/Network1.png)
 
 The diagram above shows the first example network. This network can reach stability after 3 exchanges (2 exchanges which result in changes plus 1 to establish
 stability has been reached). The initial routing tables contain only the links
@@ -166,7 +166,7 @@ Destination | Distance (Total Cost) | Next Hop
       
 ### Network 2 
 
-TODO - Insert Image Link
+![Network 2](https://github.com/mjkilian1992/DistanceVectorRouting/blob/master/diagrams/Network2.png)
 
 The above diagram shows the second example network. Below we describe how routing
 occurs with Slow Convergence, then how this is solved by introducing Split Horizon.
