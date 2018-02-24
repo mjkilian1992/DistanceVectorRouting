@@ -1,0 +1,8 @@
+n1 n2 n3 n4 n5
+n1 n2 8
+n1 n4 5
+n2 n3 3
+n2 n5 1
+n3 n4 4
+
+Represents a 5 node network with nodes named n1...n5

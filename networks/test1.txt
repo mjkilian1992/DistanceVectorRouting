@@ -1,0 +1,10 @@
+n1 n2 n3 n4 n5 n6
+n1 n2 5
+n1 n4 10
+n2 n3 9
+n3 n4 3
+n3 n6 15
+n4 n5 16
+n5 n6 6
+
+Larger 6 bipartite network.
